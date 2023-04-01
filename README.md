@@ -1,5 +1,5 @@
 <h2> Scanner de fechamentos de preços diário acima ou abaixo das bandas de Bollinger (BB) faixas de +/- 2 e +/- 2,5 desvios padrões</h2>
-<p><h3> O algoritmo escaneia uma lista de ativos configurárveis pelo usuário e baseado no histórico de preços sem ajuste
+<p><h4> O algoritmo escaneia uma lista de ativos configurárveis pelo usuário e baseado no histórico de preços sem ajuste
 extraidos manualmente do home broker Tryd são salvos no diretório ..\Database_Tryd e então mapeados em 
 listas csv que podem ser lidas pelo Python no diretório ..\Database_Python, a seguir o algortimo é executado e o resultado do scan é armazenado no diretório ..\LOGS.
 
@@ -51,10 +51,11 @@ o preço de fechamento ficou abaixo da banda de bollinger inferior de 2,5 desvio
 
 
 
-<h2>🛠 Informações úteis</h2>
-<h3>
+<h3>🛠 Informações úteis</h3>
+
 O que são bandas de bollinger : https://es.wikipedia.org/wiki/Bandas_de_Bollinger
 
 Home Broker Tryd : https://www.tryd.com.br/</h3>
 
 Análise Técnica: https://pt.wikipedia.org/wiki/An%C3%A1lise_t%C3%A9cnica
+</h4>
