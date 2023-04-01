@@ -49,6 +49,7 @@ E no arquivo em questão:
 O ativo HYPE3 (Hyperfarma) fechou abaixo da banda de bollinger de média exponencial de 21 periódos (uma média bem conhecida em Análise Técnica). Ao analisarmos o gráfico de candles do ativo, realmente
 o preço de fechamento ficou abaixo da banda de bollinger inferior de 2,5 desvios padrões (linha amarela)
 
+![hype3 candles diário](https://github.com/rgiovann/image-repo/blob/main/HYPE3.png)
 
 
 <h3>🛠 Informações úteis</h3>
@@ -58,4 +59,6 @@ O que são bandas de bollinger : https://es.wikipedia.org/wiki/Bandas_de_Bolling
 Home Broker Tryd : https://www.tryd.com.br/</h3>
 
 Análise Técnica: https://pt.wikipedia.org/wiki/An%C3%A1lise_t%C3%A9cnica
+
+Para um melhor resultado, <b>sempre</b> aguarde o fechamento do pregão para popular os dados (fechamento do candle diário)
 </h4>
